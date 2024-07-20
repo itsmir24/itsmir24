@@ -8,6 +8,6 @@ Skills: Advanced Excel/Power BI/Tableau/SQL/Statistics/Python
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on my blogs in [Medium](https://medium.com/@abdulmalique9)
 - 💬 Ask me about anything and I'll try my best to share my knowledge.
-- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/mir-abdul-malique/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mir-abdul-malique/)
 - ⚡ Fun fact: We control the data or the data controls us!!
 -->
