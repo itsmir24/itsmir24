@@ -1,5 +1,7 @@
 ### Hi there 👋, I am Abdul Malique
 ####  Welcome to my GitHub profile! 
+![profilr_motion](https://github.com/itsmir24/itsmir24/blob/main/Profile_motion.gif) 
+
 I am a data enthusiast with a passion for using technology to solve complex problems and make a positive impact on society. Currently pursuing an Accelerator Program in Business Analytics and Data Science. I possess a deep understanding of various Analytics techniques and their practical applications.
 
 Skills: Advanced Excel/Power BI/Tableau/SQL/Statistics/Python
