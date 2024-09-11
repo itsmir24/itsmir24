@@ -7,7 +7,7 @@ I am a data enthusiast with a passion for using technology to solve complex prob
 Skills: Advanced Excel/Power BI/Tableau/SQL/Statistics/Python
 
 - 🔭 I’m currently working on Data Science Projects
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on my blogs in [Medium](https://medium.com/@abdulmalique9)
 - 💬 Ask me about anything and I'll try my best to share my knowledge.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mir-abdul-malique/)
